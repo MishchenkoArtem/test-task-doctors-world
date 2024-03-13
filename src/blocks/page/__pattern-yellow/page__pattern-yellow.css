@@ -1,0 +1,10 @@
+.page__pattern-yellow {
+    position: fixed;
+    right: 305px;
+
+    min-width: 1039px;
+    min-height: 67px;
+
+    background-image: url(../../../images/pattern-yellow.svg);
+    background-repeat: no-repeat;
+}

@@ -1,0 +1,10 @@
+.page__pattern-blue {
+    position: fixed;
+    left: 33px;
+
+    min-width: 1247px;
+    min-height: 78px;
+
+    background-image: url(../../../images/pattern-blue.svg);
+    background-repeat: no-repeat;
+}

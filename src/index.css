@@ -1,0 +1,11 @@
+@import url(./blocks/page/page.css);
+@import url(./blocks/page/__section/page__section.css);
+@import url(./blocks/page/__pattern-yellow/page__pattern-yellow.css);
+@import url(./blocks/page/__pattern-green/page__pattern-green.css);
+@import url(./blocks/page/__pattern-blue/page__pattern-blue.css);
+
+
+.content {
+    padding: 140px 0 0 45px;
+    border: solid red 1px;
+}

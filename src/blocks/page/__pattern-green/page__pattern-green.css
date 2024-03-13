@@ -1,0 +1,10 @@
+.page__pattern-green {
+    position: fixed;
+    right: 482px;
+
+    min-width: 939px;
+    min-height: 69px;
+
+    background-image: url(../../../images/pattern-green.svg);
+    background-repeat: no-repeat;
+}
